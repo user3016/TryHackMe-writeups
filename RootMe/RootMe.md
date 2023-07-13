@@ -53,7 +53,7 @@ We can see it's running apache and ssh.
 
 ![](pics/pic1.png)
 
-Let's use dirsearch to discover directories on the mahcine.
+Let's use dirsearch to discover directories on the machine.
 
 ```dirsearch -u 10.10.47.172```
 
