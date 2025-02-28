@@ -76,6 +76,7 @@ I then found out that I can run it as root with no password.
 ![](pics/pic5.png)
 
 Viewing the file permissions, I cannot modify it.
+
 ![](pics/pic6.png)
 
 But since the file is in my home directory, I can remove and create my own ```bak.py``` script that spawns a root shell.
